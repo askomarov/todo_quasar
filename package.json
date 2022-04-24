@@ -1,0 +1,1 @@
+{"name":"todo","version":"0.0.1","description":"A Quasar Project","productName":"Todo","author":"askomarov <askomarov13@mail.ru>","private":true,"dependencies":{"core-js":"3.22.2","quasar":"2.6.6","vue":"3.2.33","vue-router":"4.0.14"},"engines":{"node":">= 12.22.1","npm":">= 6.13.4","yarn":">= 1.21.1"},"main":"./electron-main.js"}
